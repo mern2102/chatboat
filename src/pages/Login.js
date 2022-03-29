@@ -96,7 +96,7 @@ const Login = () => {
             <div className="login__right">
               <div className="login__right__con">
                 <h1>
-                  Welcome to
+                  Welcome to New World of Messaging
                   <br />
                   <span>Chatboat</span>
                 </h1>
